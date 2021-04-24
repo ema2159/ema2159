@@ -3,7 +3,7 @@ I am Emmanuel, a costarrican electrical engineer currently doing a masters in co
 
 Currently in: 🇫🇷
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ema2159&show_icons=true&theme=react)
+![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ema2159&count_private=true&show_icons=true&theme=react&include_all_commits=true)
 
 <!--
 <>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ema2159&layout=compact&hide=jupyter%20notebook,yasnippet)](https://github.com/anuraghazra/github-readme-stats)
