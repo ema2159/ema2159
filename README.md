@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hey!
+I am Emmanuel, a costarrican electrical engineer currently doing a masters in computer imaging for XR.
+
+Currently in: 🇫🇷
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ema2159&show_icons=true&theme=react)
 
 <!--
+<>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ema2159&layout=compact&hide=jupyter%20notebook,yasnippet)](https://github.com/anuraghazra/github-readme-stats)
+
 **ema2159/ema2159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
