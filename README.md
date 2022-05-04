@@ -1,7 +1,7 @@
 ### Hey!
 I am Emmanuel, a costarrican electrical engineer currently doing a masters in computer imaging for XR.
 
-Currently in: 🇫🇷
+Currently in: :finland:
 
 ![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ema2159&count_private=true&show_icons=true&theme=react&include_all_commits=true)
 
