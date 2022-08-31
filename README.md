@@ -1,5 +1,5 @@
 ### Hey!
-I am Emmanuel, a costarrican electrical engineer currently doing a masters in computer imaging for XR.
+I am Emmanuel, a costarrican Software Engineer with a degree in Electrical Engineering and a Master's in Computer Graphics for XR.
 
 Currently in: :finland:
 
