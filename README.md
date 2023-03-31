@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Emmanuel</h1>
-<p align="left">Versatile software engineer with a master’s degree in computer graphics for extended reality. I am passionate about software systems, software design, scalability, maintainability, and high software engineering standards for producing high‑quality systems.</p>
+<p align="left">I am passionate about software architecture, software design, scalability, maintainability, and software best practices for producing high‑quality systems.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ema2159&label=Profile%20views&color=0e75b6&style=flat" alt="ema2159" /> </p>
 
