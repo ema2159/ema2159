@@ -2,7 +2,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ema2159&" alt="ema2159" /></p>
 
 ### Interests:
-**Rust**, **Python**, **Systems architecture**, **Backend development**
+**Rust**, **Python**, **Systems architecture**, **Infrastructure**
 
 ### Personal info:
 - Webpage [here](https://ema2159.github.io/)
