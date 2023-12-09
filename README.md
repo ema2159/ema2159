@@ -1,6 +1,3 @@
-### To keep me motivated:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ema2159&" alt="ema2159" /></p>
-
 ### Interests:
 **Rust**, **Python**, **Systems architecture**, **Infrastructure**
 
