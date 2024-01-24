@@ -1,3 +1,5 @@
+### From 🇨🇷, currently in 🇳🇱
+
 ### Interests:
 **Rust**, **Python**, **Systems architecture**, **Infrastructure**
 
